@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
-- 🌱 I’m currently learning **Node.js, Next.js**
+- 🌱 I’m currently learning **Node.js, Next.js, Advanced React**
+
 - 👨‍💻 Portfolio [https://ardsen.github.io/](https://ardsen.github.io/)
+
+- 📫 How to reach me **as.ardasen@gmail.com**
+
+- 📄 Know about my experiences [https://ardsen.github.io/resume.pdf](https://ardsen.github.io/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
